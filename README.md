@@ -30,8 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Maximus's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xxMaximuss&show_icons=true&hide_border=true" />
   <a href="https://github.com/xxMaximuss?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? username=xxMaximuss&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323">
+  <img align="left" alt="Maximus's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xxMaximuss&show_icons=true&hide_border=true" />
 
 </details>
